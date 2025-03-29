@@ -13,4 +13,5 @@ while True:
     print(f"Marks of student {i} in Maths is: {marks1}")
     print(f"Marks of student {i} in English is: {marks2}")
     print(f"Marks of student {i} in SST is: {marks3}")
-    
+
+file.close()
